@@ -1,5 +1,4 @@
-This repository contains a series of scripts used for pre-processing high-throughput DNA sequences
-prior to analysis. Some of these require other software packages or modules installed and in your path:
+This repository contains a series of scripts used for pre-processing high-throughput DNA sequences prior to analysis. Some of these require other software packages or modules installed and in your path:
 BioPerl			http://www.bioperl.org/wiki/Main_Page
 cross_match.manyreads	http://www.phrap.org/phredphrapconsed.html
 
