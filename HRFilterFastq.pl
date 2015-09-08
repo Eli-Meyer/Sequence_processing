@@ -34,7 +34,7 @@ while(<IN>)
 	{
 	chomp;
 	$count++;
-	if ($count==1) {$ss = substr($_, 0, 4);}
+	if ($count==1) {$ss = substr($_, 0, 8);}
 	if ($_ =~ /^$ss/) 
 		{
 		$thisname = $_;
